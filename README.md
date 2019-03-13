@@ -6,8 +6,6 @@
 
 > Slack clone powered by [Chatkit](https://pusher.com/chatkit). See it in action here https://pusher.github.io/react-slack-clone
 
-![demo](https://user-images.githubusercontent.com/1457604/35891289-687ad6ec-0b9b-11e8-99cc-ffbad31a017e.gif)
-
 This is a static, single page web app bootstrapped with [create-react-app](https://github.com/facebookincubator/create-react-app) for ease of setup, distribution and development. It is a thin UI wrapper around the [pusher-chatkit-client](https://github.com/pusher/chatkit-client-js) library to demonstrate how different features can work together to form a compelling real-time chat client with various potential product applications.
 
 ## Features
