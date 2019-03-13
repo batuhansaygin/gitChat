@@ -1,12 +1,12 @@
 .component {
-  border-bottom: 1px solid #e0e0e0;
+  border-bottom: 1px solid #E5E5E5;
   z-index: 1;
   flex: none;
   display: flex;
   align-items: center;
   padding: 0.62rem;
   height: 4.8rem;
-  background-color: #f1f1f1;
+  background-color: #f9f9f9;
 }
 
 .component button {
@@ -35,7 +35,7 @@
   border-radius: 0.5rem;
   cursor: pointer;
   user-select: none;
-  background-color: #f8f8f8;
+  background-color: #fdfdfd;
 }
 
 .component div > * + * {

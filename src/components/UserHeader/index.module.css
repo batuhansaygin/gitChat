@@ -1,12 +1,12 @@
 .component {
-  border-bottom: 1px solid #e0e0e0;
+  border-bottom: 1px solid #e5e5e5;
   z-index: 1;
   flex: none;
   display: flex;
   align-items: center;
   padding: 1rem;
   height: 4.8rem;
-  background-color: #f1f1f1;
+  background-color: #fafafa;
 }
 
 .component > * + * {
