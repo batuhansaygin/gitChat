@@ -42,7 +42,7 @@ $ yarn && yarn start
 
 The app starts in development mode and opens a browser window on `http://localhost:3000`. The project rebuilds and the browser reloads automatically when source files are changed. Any build or runtime errors are propagated and displayed in the browser.
 
-The app depends on GitHub authentication and a user creation endpoint that is hosted at https://chatkit-demo-server.herokuapp.com. The endpoints are `/auth` and `/token`.
+The app depends on GitHub authentication and a user creation endpoint that is hosted at https://chatgit.herokuapp.com/. The endpoints are `/auth` and `/token`.
 
 [github-star-badge]: https://img.shields.io/github/stars/pusher/react-slack-clone.svg?style=social
 [github-star]: https://github.com/pusher/react-slack-clone/stargazers
